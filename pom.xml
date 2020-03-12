@@ -23,9 +23,9 @@
 
   <distributionManagement>
     <site>
-      <id>site-server</id>
+      <id>nexus</id>
       <name>Test Project Site</name>
-      <url>file:///tmp/maven-project-site</url>
+      <url>http://18.191.162.115:8081/repository/maven-snapshots/</url>
     </site>
   </distributionManagement>
 
